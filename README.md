@@ -9,5 +9,6 @@ This repository contains an implementation of a **Decoder-Only Transformer**, a 
 - **Softmax Layer:** Outputs probabilities for the next token in the sequence.  
 
 This implementation is ideal for experimenting with LLM concepts and serves as a learning resource for understanding decoder-only transformer models.  
+I have used PyTorch + Lightning to create and optimize a Decoder-Only Transformer.
 
 Feel free to explore, modify, and contribute!  
